@@ -40,4 +40,4 @@ mkdir -p "$stage_innosetup"
 cp -a $PKG_SOURCE_DIR/* "$stage_innosetup"
 
 # Copy License
-cp "LICENSE" "$stage/LICENSES/innosetup.txt"
+cp "LICENSE.innosetup" "$stage/LICENSES/innosetup.txt"

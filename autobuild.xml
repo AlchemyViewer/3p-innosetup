@@ -3,6 +3,8 @@
 <map>
     <key>package_description</key>
     <map>
+      <key>canonical_repo</key>
+      <string>https://github.com/AlchemyViewer/3p-innosetup</string>
       <key>copyright</key>
       <string>Copyright (C) 1997-2023 Jordan Russell. All rights reserved.</string>
       <key>description</key>
